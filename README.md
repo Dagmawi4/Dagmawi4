@@ -8,6 +8,7 @@
 
 Welcome to my GitHub!  
 I’m a **Computer Engineering graduate** passionate about **industrial automation, embedded systems, programming, and software development**.  
+
 I enjoy building solutions that bridge **hardware and software** while also pursuing **storytelling and traveling to experience new cultures**.
 
 ---
@@ -16,6 +17,12 @@ I enjoy building solutions that bridge **hardware and software** while also purs
 - 🎓 **Computer Engineering Graduate** – Minnesota State University, Mankato (May 2025)  
 - 💼 **Actively seeking full-time roles** in **automation, embedded systems, and software development**  
 - 🎥 Creator & storyteller, working on a **portfolio website and film projects**
+
+  ### Why My GitHub Is Growing Now
+During college, I focused on **coursework, internships, and hands-on projects**, many of which were done in **collaborative or company environments** using private repositories or on-site tools. 
+ 
+Instead of uploading incomplete or messy class files, I chose to **wait until I could curate my best work**.  
+Now that I’m transitioning into the job market, I’m **organizing, polishing, and presenting my projects** so my GitHub serves as a **professional portfolio for employers**, not just a class archive.
 
 ---
 
