@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D8ABC,100:00C9FF&height=200&section=header&text=Dagmawi%20Abera&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineer%20|%20Dreamer%20|%20Storyteller&descAlignY=55&descAlign=50" alt="Dagmawi Abera Banner" />
 </p>
 
-# Hi, I'm Dagmawi Abera, but you can call me **Dag** 👋  
+# Hello World, I'm Dagmawi Abera, but you can call me **Dag** 👋  
 **Computer Engineer | Dreamer | Storyteller**
 
 Welcome to my GitHub!  
