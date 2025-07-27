@@ -7,7 +7,7 @@
 **Computer Engineer | Dreamer | Storyteller**
 
 Welcome to my GitHub!  
-I’m a **Computer Engineering graduate** passionate about **Product Managment, software development, embedded systems  and automation **.  
+I’m a **Computer Engineering graduate** passionate about **Product Management, software development, embedded systems, and automation**.
 
 I enjoy building solutions that bridge **hardware and software** while also pursuing **storytelling and traveling to experience new cultures**.
 
