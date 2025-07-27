@@ -7,7 +7,7 @@
 **Computer Engineer | Dreamer | Storyteller**
 
 Welcome to my GitHub!  
-I’m a **Computer Engineering graduate** passionate about **industrial automation, embedded systems, programming, and software development**.  
+I’m a **Computer Engineering graduate** passionate about **Product Managment, software development, embedded systems  and automation **.  
 
 I enjoy building solutions that bridge **hardware and software** while also pursuing **storytelling and traveling to experience new cultures**.
 
@@ -15,7 +15,7 @@ I enjoy building solutions that bridge **hardware and software** while also purs
 
 ## 🌟 About Me
 - 🎓 **Computer Engineering Graduate** – Minnesota State University, Mankato (May 2025)  
-- 💼 **Actively seeking full-time roles** in **automation, embedded systems, and software development**  
+- 💼 **Actively seeking full-time roles** in **Product Managment, Software Engineering and Embedded Systems**  
 - 🎥 Creator & storyteller, working on a **portfolio website and film projects**
 
   ### Why My GitHub Is Growing Now
@@ -28,7 +28,7 @@ Now that I’m transitioning into the job market, I’m **organizing, polishing,
 
 ## 💼 Professional Experience
 
-- **Johnson & Johnson – Systems Application & Product Engineering Intern**  
+- **Johnson & Johnson – Systems Application & Product Managment Intern**  
   Worked on **SAP automation (Python)**, **AWS cloud migration**, and **Power BI dashboards** for leadership reporting.
 
 - **Thin Film Technology – IT & Engineering Intern**  
@@ -42,7 +42,10 @@ Now that I’m transitioning into the job market, I’m **organizing, polishing,
 ## 🔧 Technical Skills
 
 ### **Languages & Tools:**  
-`Python` • `C/C++` • `Assembly` • `Ladder Logic (CCW)` • `AutoCAD Electrical` • `SAP` • `Power BI` • `Jira`
+`Python` • `C/C++` • `Assembly` • `Ladder Logic (CCW)` • `AutoCAD Electrical` • `SAP` • `Power BI`
+
+### **Project Management & Methodologies:**  
+`Agile` • `Scrum` • `Kanban` • `Jira` • `Confluence` • `MS 365` • `Notion` • `Slack` • `Trello`
 
 ### **Hardware & Platforms:**  
 `Allen-Bradley Micro820 PLC` • `IFM Safety Systems` • `Raspberry Pi` • `Embedded Robotics Systems`
