@@ -61,7 +61,7 @@ Now that I’m transitioning into the job market, I’m **organizing, polishing,
 
 ## 🌐 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dagmawi-abera/)  
-[![Email](https://img.shields.io/badge/Email-dagmawi.abera%40mnsu.edu-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dagmawi.abera@mnsu.edu)  
+[![Email](https://img.shields.io/badge/Email-dagmawi.abera%40outlook.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dagmawi.abera@outlook.com)  
 
 ---
 
